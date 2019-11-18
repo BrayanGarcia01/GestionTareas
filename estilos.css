@@ -1,0 +1,55 @@
+
+
+.divCedula{
+    color: #000000;
+    margin-bottom: 2em;
+    margin-top: 3em;
+    size: 2.5em;
+    color:black; 
+}
+.separacion{
+    margin-top: 3em;
+}
+.buttonAgregar{
+    border: 1px solid black;
+}
+.divAgregarTarea{
+    margin-left: auto;
+    border: 1px solid black;
+
+}
+.buttonMarcacion{
+    width: 7em;
+}
+.tachado{
+    text-decoration: line-through;
+    color: grey;
+}
+.cbx{
+    width: 100px;
+    height: 100px;
+}
+.contenedor{
+    margin: auto;
+}
+.pJustify{
+    text-align: justify;
+}
+.escondido{
+    display: none;
+}
+.prueba{
+    text-decoration: line-through;
+}
+
+.divIndicaciones{
+    margin: auto;
+    margin-bottom: 3em;
+    box-sizing: border-box;
+    width: 100%;
+    height: 100%
+}
+
+
+/* contenido */
+

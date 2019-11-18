@@ -1,0 +1,30 @@
+{
+"cedula":"12",
+"tareas":[
+	{	
+	"nombre":"Planear semana",
+	"fecha":"17-11-19",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"Ser feliz",
+	"fecha":"17-11-19",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"Nueva Tarea",
+	"fecha":"29/11/2019",
+	"terminada":"true"
+	},
+	{	
+	"nombre":"Nueva Tarea 2",
+	"fecha":"29/11/2019",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"Nueva Tarea 3",
+	"fecha":"29/11/2019",
+	"terminada":"true"
+	}
+	]
+}

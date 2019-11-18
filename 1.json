@@ -1,0 +1,65 @@
+{
+"cedula":"1",
+"tareas":[
+	{	
+	"nombre":"Planear semana",
+	"fecha":"18-11-19",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"Ser feliz",
+	"fecha":"18-11-19",
+	"terminada":"true"
+	},
+	{	
+	"nombre":"Nueva Tarea 3",
+	"fecha":"29/11/19",
+	"terminada":"true"
+	},
+	{	
+	"nombre":"Nueva tarea",
+	"fecha":"29/11/19",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"nombre de la tarea1",
+	"fecha":"29/11/19",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"Nueva Tarea 9",
+	"fecha":"29/11/19",
+	"terminada":"true"
+	},
+	{	
+	"nombre":"Nueva Tarea 10",
+	"fecha":"29/11/19",
+	"terminada":"true"
+	},
+	{	
+	"nombre":"Nueva Tarea11",
+	"fecha":"29/11/19",
+	"terminada":"true"
+	},
+	{	
+	"nombre":"Nueva tarea",
+	"fecha":"29/11/19",
+	"terminada":"true"
+	},
+	{	
+	"nombre":"nombre de la tarea",
+	"fecha":"29/11/19",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"nombre de la tarea",
+	"fecha":"19/11/19",
+	"terminada":"false"
+	},
+	{	
+	"nombre":"Nueva Tarea 3",
+	"fecha":"29/11/19",
+	"terminada":"false"
+	}
+	]
+}
